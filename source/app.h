@@ -19,7 +19,7 @@ public:
     int status = EXIT_SUCCESS;
     App(){
         this->window = SDL_CreateWindow(
-            "recraft",
+            "cube",
             SDL_WINDOWPOS_CENTERED,
             SDL_WINDOWPOS_CENTERED,
             WIDTH, HEIGHT,
